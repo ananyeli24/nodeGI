@@ -1,0 +1,64 @@
+{
+    "Employees" : [
+    {
+    "employeeID":"1",
+    "name":"Adam",
+    "salary":"78000",
+    "department":"Business"
+    },
+    {
+    "employeeID":"2",
+    "name":"Isaih",
+    "salary":"12000",
+    "department":"Marketing"
+    },
+    {
+    "employeeID":"3",
+    "name":"Oscar",
+    "salary":"20000",
+    "department":"IT"
+    },
+    {
+    "employeeID":"4",
+    "name":"Orlando",
+    "salary":"48000",
+    "department":"Customer Service"
+    },
+    {
+    "employeeID":"5",
+    "name":"Angelina",
+    "salary":"80000",
+    "department":"Management"
+    },
+    {
+    "employeeID":"6",
+    "name":"Curtis",
+    "salary":"347000",
+    "department":"Director"
+    },
+    {
+    "employeeID":"7",
+    "name":"Leon",
+    "salary":"24000",
+    "department":"Associates"
+    },
+    {
+    "employeeID":"8",
+    "name":"Arlen",
+    "salary":"72000",
+    "department":"Finance"
+    },
+    {
+    "employeeID":"9",
+    "name":"Justin",
+    "salary":"89000",
+    "department":"Public Relations"
+    },
+    {
+    "employeeID":"10",
+    "name":"Elizabeth",
+    "salary":"555555",
+    "department":"Legal"
+    }
+    ]
+}
